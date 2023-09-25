@@ -23,8 +23,8 @@ p.faculty{
     font-weight: bold;
 }
 
-p.bright{
-    color: #ef3c5a;
+p#bright{
+    color: white;
     font-size: 27px;
     font-family: cursive;
     border-style: solid;
@@ -34,9 +34,31 @@ p.bright{
     padding-top: 10px;
     padding-bottom: 10px;
     border-radius: 15px;
-    background-color: white;
+    background-color: #426aaa;
     margin-right: 500px;
     margin-left: 20px;
+    background-image: url('../images/bright-sun.png');
+    background-repeat: no-repeat;
+}
 
+#founder{
+    border-width: thin;
+    border-style: solid;
+    padding: 20px;
+    line-height: 30px;
+    text-align: center;
+    width: 900px;
+}
 
+#faculties{
+    border-width: thin;
+    border-style: solid;
+    padding: 20px;
+    line-height: 30px;
+    text-align: center;
+    width: 900px;  
+}
+
+#faculties h4{
+    color: #983e91;
 }
