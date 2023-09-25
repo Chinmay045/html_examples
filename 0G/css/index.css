@@ -7,9 +7,7 @@ body{
     font-family:sans-serif;
     background-color:lavender;
 }
-p{
-    color:maroon;
-}
+
 h2,h3{
     font-family: serif;
 
@@ -23,4 +21,22 @@ p.vision{
 
 p.faculty{
     font-weight: bold;
+}
+
+p.bright{
+    color: #ef3c5a;
+    font-size: 27px;
+    font-family: cursive;
+    border-style: solid;
+    border-color: #363636;
+    border-width: 2px;
+    padding-left: 28px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 15px;
+    background-color: white;
+    margin-right: 500px;
+    margin-left: 20px;
+
+
 }
