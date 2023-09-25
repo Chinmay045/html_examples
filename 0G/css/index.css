@@ -62,3 +62,16 @@ p#bright{
 #faculties h4{
     color: #983e91;
 }
+
+.designation{
+    font-style: italic;
+}
+
+.name{
+    font-weight: bolder;
+}
+
+.home{
+    text-decoration: none;
+    color: black;
+}
